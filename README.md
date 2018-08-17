@@ -2,3 +2,4 @@ This app searches for articles using the New York Time API and was created as pa
 
 Link to the app: https://pure-mountain-95113.herokuapp.com/
 
+<img width="1024" alt="screen shot 2018-08-16 at 11 34 40 pm" src="https://user-images.githubusercontent.com/35227935/44247910-38410700-a1ad-11e8-9426-1d079a78e38d.png">
