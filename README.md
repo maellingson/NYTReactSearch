@@ -1,4 +1,4 @@
-This app searches for articles using the New York Time API and was created as part of a homework assignment for the University of Minnesota Coding Bootcamp. Users can search for articles using the search parameters on the page. The list of returned articles will display below the search parameters.
+This app searches for articles using the New York Time API and was created as part of a homework assignment for the University of Minnesota Coding Bootcamp. Users can search for articles using the search parameters on the page. The list of returned articles will display below the search parameters. Currently, the save feature does not work. 
 
 Link to the app: https://pure-mountain-95113.herokuapp.com/
 
